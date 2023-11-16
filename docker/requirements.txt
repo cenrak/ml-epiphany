@@ -22,5 +22,7 @@ accelerate
 sqlparse
 ctransformers
 llama-cpp-python
-langchain
+langchain[all]
 mitreattack-python
+optimum
+auto-gptq
