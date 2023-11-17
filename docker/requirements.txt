@@ -26,3 +26,6 @@ langchain[all]
 mitreattack-python
 optimum
 auto-gptq
+protobuf
+SentencePiece
+
