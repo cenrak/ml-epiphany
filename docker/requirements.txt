@@ -28,4 +28,7 @@ optimum
 auto-gptq
 protobuf
 SentencePiece
+tiktoken
+llama-index
+nltk
 
