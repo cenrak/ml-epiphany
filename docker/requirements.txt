@@ -31,4 +31,23 @@ SentencePiece
 tiktoken
 llama-index
 nltk
+trl
+tqdm
+dash
+plotly
+sqlalchemy
+requests
+beautifulsoup4
+pyyaml
+bokeh
+matplotlib
+scipy
+numpy
+opencv-python
+XGBoost
+rapids
+redis
+spacy
+fastai
+httpie
 
