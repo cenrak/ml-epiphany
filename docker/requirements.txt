@@ -157,3 +157,8 @@ causalml
 prince
 anomalib
 pymc
+detectron2
+fmmax
+laser_encoders
+torchbiggraph
+statsmodels
