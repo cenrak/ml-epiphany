@@ -502,3 +502,7 @@ pefile
 scapy
 yara
 chromadb
+python-gitlab
+kubernetes
+podman
+dulwich
