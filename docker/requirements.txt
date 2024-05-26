@@ -431,3 +431,4 @@ vllm
 xgboost
 XGBoost
 yara
+html2text
