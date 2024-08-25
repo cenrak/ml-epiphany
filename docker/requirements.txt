@@ -432,3 +432,12 @@ xgboost
 XGBoost
 yara
 html2text
+streamlit
+unsloth
+qdrant-client
+langchain-qdrant
+llama-index-vector-stores-qdrant
+llama-index-readers-file
+llama-index-embeddings-fastembed
+llama-index-llms-openai
+langchain-openai
