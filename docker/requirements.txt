@@ -441,3 +441,8 @@ llama-index-readers-file
 llama-index-embeddings-fastembed
 llama-index-llms-openai
 langchain-openai
+ragas
+wandb
+graphrag
+pygwalker
+neo4j
