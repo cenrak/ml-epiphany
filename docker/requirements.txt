@@ -448,3 +448,5 @@ pygwalker
 neo4j
 netaddr
 ipaddress
+psycopg2-binary
+pglast
