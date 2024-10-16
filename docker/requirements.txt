@@ -446,3 +446,5 @@ wandb
 graphrag
 pygwalker
 neo4j
+netaddr
+ipaddress
