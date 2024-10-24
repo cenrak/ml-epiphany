@@ -450,3 +450,6 @@ netaddr
 ipaddress
 psycopg2-binary
 pglast
+rouge-score
+sqlglot
+sqlparse
