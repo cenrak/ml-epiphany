@@ -456,3 +456,4 @@ sqlparse
 autogen-agentchat
 autogen
 FlagEmbedding
+adalflow
