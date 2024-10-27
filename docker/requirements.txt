@@ -457,3 +457,4 @@ autogen-agentchat
 autogen
 FlagEmbedding
 adalflow
+flashrank
