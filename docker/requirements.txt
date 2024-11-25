@@ -464,3 +464,6 @@ llama-index-postprocessor-tei-rerank
 infinity_emb
 pymilvus
 reranker
+dspy
+dspy-ai
+sglang[all]
