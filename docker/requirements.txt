@@ -467,3 +467,4 @@ reranker
 dspy
 dspy-ai
 sglang[all]
+rerankers[all]
